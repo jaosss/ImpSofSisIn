@@ -8,7 +8,7 @@ Para todos los enteros entre 1 y 99 (incluidos ambos):
     # imprimir buzz para múltiplos de 5
     # imprimir fizzbuzz para múltiplos de 3 y 5
 """
-
+#correccion
 def fizzbuzz(max_num):
    
     for i in range(1,max_num):
